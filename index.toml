@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/Inspreanite.iml"
-hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
-
-[[files]]
 file = "mods/-sculk-horn.pw.toml"
 hash = "2230f56d3b83a853742c50cd1ecac13468f9f6965d8ea5f474d6e8413cc047cc"
 metafile = true
