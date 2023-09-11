@@ -1,0 +1,13 @@
+name = "Portable Hole"
+filename = "PortableHole-v8.0.0-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jckrUoUe/versions/JGuJYpJ7/PortableHole-v8.0.0-1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "30d1277e5b21936f4119c17b03ccbc1b41b3dccc"
+
+[update]
+[update.modrinth]
+mod-id = "jckrUoUe"
+version = "JGuJYpJ7"

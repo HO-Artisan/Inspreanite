@@ -1,0 +1,13 @@
+name = "Items Displayed"
+filename = "ItemsDisplayed - v1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Guh4HXen/versions/Kg9ryZ4n/ItemsDisplayed%20-%20v1.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "4fc9b8b20f4ccfab3e740459edc687509f4ce76f"
+
+[update]
+[update.modrinth]
+mod-id = "Guh4HXen"
+version = "Kg9ryZ4n"

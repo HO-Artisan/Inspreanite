@@ -1,0 +1,13 @@
+name = "Gazebos (RPG Series)"
+filename = "gazebo-fabric-1.0.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XIpMGI6r/versions/7msgkeH4/gazebo-fabric-1.0.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "d4dbe0ed55f65b255654dcf242cc1af2ea960bb0"
+
+[update]
+[update.modrinth]
+mod-id = "XIpMGI6r"
+version = "7msgkeH4"

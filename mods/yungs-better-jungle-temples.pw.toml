@@ -1,0 +1,13 @@
+name = "YUNG's Better Jungle Temples"
+filename = "YungsBetterJungleTemples-1.20-Fabric-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z9Ve58Ih/versions/uLnkpEnp/YungsBetterJungleTemples-1.20-Fabric-2.0.1.jar"
+hash-format = "sha1"
+hash = "dae4f7fb620c420956b608025ec43591940ce132"
+
+[update]
+[update.modrinth]
+mod-id = "z9Ve58Ih"
+version = "uLnkpEnp"

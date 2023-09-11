@@ -1,0 +1,13 @@
+name = "Icarus"
+filename = "icarus-1.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dw7M6XKW/versions/Z2pJmMe0/icarus-1.16.jar"
+hash-format = "sha1"
+hash = "3f1e550f06d8b26ce1c0c302f8493f33bcb26370"
+
+[update]
+[update.modrinth]
+mod-id = "Dw7M6XKW"
+version = "Z2pJmMe0"

@@ -1,0 +1,13 @@
+name = "Diamond In The Rough"
+filename = "diamond-in-the-rough-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TBVbrjYL/versions/J9uV906O/diamond-in-the-rough-1.20.1-1.1.1.jar"
+hash-format = "sha1"
+hash = "16e562241fa398bba3fd3c3f32584b6b629d0ad8"
+
+[update]
+[update.modrinth]
+mod-id = "TBVbrjYL"
+version = "J9uV906O"

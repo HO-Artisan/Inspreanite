@@ -1,0 +1,13 @@
+name = "AzureDooms Angel Ring"
+filename = "Angel-Ring-Fabric-1.20.1-2.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VpVrx0oi/versions/7MJYggb4/Angel-Ring-Fabric-1.20.1-2.0.8.jar"
+hash-format = "sha1"
+hash = "1f11ad291db42d6ae19647b85488d1c8a04693d7"
+
+[update]
+[update.modrinth]
+mod-id = "VpVrx0oi"
+version = "7MJYggb4"

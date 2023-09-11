@@ -1,0 +1,13 @@
+name = "Inspreanite"
+author = "HO-Artisan, Oganesson897"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "137367f23e8d1d47888d4ecdcbb8e33e5479d9dae15b959933e07a7213e54afe"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.20.1"

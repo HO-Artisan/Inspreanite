@@ -1,0 +1,13 @@
+name = "Passable Foliage 🌳"
+filename = "PassableFoliage-1.20.1-fabric-8.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uaLW6JVR/versions/qPN5Jetz/PassableFoliage-1.20.1-fabric-8.1.0.jar"
+hash-format = "sha1"
+hash = "440421262b4f042d01870ef923dc7f97aa5388c6"
+
+[update]
+[update.modrinth]
+mod-id = "uaLW6JVR"
+version = "qPN5Jetz"

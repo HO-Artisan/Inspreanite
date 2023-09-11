@@ -1,0 +1,13 @@
+name = "Wizards (RPG Series)"
+filename = "wizards-fabric-0.9.23+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NkGaQMDA/versions/IftBAnks/wizards-fabric-0.9.23%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "5608301ba00332a91e260440d8ee83555c1cab86"
+
+[update]
+[update.modrinth]
+mod-id = "NkGaQMDA"
+version = "IftBAnks"

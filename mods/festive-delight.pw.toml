@@ -1,0 +1,13 @@
+name = "Festive Delight [Forge / Fabric]"
+filename = "Festive_Delight_1.1_Fabric_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AsUUCoXX/versions/Gs9jmquQ/Festive_Delight_1.1_Fabric_1.20.1.jar"
+hash-format = "sha1"
+hash = "07818b59bfc036071988290d3623406a25e07812"
+
+[update]
+[update.modrinth]
+mod-id = "AsUUCoXX"
+version = "Gs9jmquQ"

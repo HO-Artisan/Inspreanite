@@ -1,0 +1,13 @@
+name = "Flotage"
+filename = "Flotage-Fabric-1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YSCXNlIi/versions/s8B97D0c/Flotage-Fabric-1.20.1-1.2.1.jar"
+hash-format = "sha1"
+hash = "a9f43c63a9a1cb255b883ced509c7a2fb0e40f73"
+
+[update]
+[update.modrinth]
+mod-id = "YSCXNlIi"
+version = "s8B97D0c"

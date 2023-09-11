@@ -1,0 +1,13 @@
+name = "Cooking for Blockheads"
+filename = "cookingforblockheads-fabric-1.20-16.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vJnhuDde/versions/ZDOSMTDm/cookingforblockheads-fabric-1.20-16.0.0.jar"
+hash-format = "sha1"
+hash = "322cbe1dc76faad408b3f26f4b278fe8d026349a"
+
+[update]
+[update.modrinth]
+mod-id = "vJnhuDde"
+version = "ZDOSMTDm"

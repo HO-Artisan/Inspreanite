@@ -1,0 +1,13 @@
+name = "Bountiful"
+filename = "Bountiful-6.0.3+1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BpwWFOVM/versions/qFqfFMMO/Bountiful-6.0.3%2B1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "d8e5e67712a8b683ae07101a51ad53df0fb24e63"
+
+[update]
+[update.modrinth]
+mod-id = "BpwWFOVM"
+version = "qFqfFMMO"

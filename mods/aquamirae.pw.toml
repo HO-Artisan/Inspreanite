@@ -1,0 +1,13 @@
+name = "Aquamirae"
+filename = "Aquamirae-6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k23mNPhZ/versions/ouUaC54p/Aquamirae-6.jar"
+hash-format = "sha1"
+hash = "13feb2c346d372b3bec57f1ad2e151d87f65e5d6"
+
+[update]
+[update.modrinth]
+mod-id = "k23mNPhZ"
+version = "ouUaC54p"

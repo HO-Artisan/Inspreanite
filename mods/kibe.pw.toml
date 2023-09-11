@@ -1,0 +1,13 @@
+name = "Kibe"
+filename = "kibe-1.10.1-BETA+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OvlwmUdC/versions/fhSgEP7Z/kibe-1.10.1-BETA%2B1.20.jar"
+hash-format = "sha1"
+hash = "cf5035be0524cd5e7447af39c752aae174c28b15"
+
+[update]
+[update.modrinth]
+mod-id = "OvlwmUdC"
+version = "fhSgEP7Z"

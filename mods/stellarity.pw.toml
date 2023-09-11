@@ -1,0 +1,13 @@
+name = "Stellarity"
+filename = "Stellarity-v2-0e.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bZgeDzN8/versions/RKcXZAPf/Stellarity-v2-0e.jar"
+hash-format = "sha1"
+hash = "d54f54446b7afaed0c7bdf9679bc376f4913d16c"
+
+[update]
+[update.modrinth]
+mod-id = "bZgeDzN8"
+version = "RKcXZAPf"

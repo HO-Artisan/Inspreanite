@@ -1,0 +1,13 @@
+name = " Sculk Horn"
+filename = "(Fabric)SculkHorn-1.20-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BfFhIqA7/versions/424RdGXU/%28Fabric%29SculkHorn-1.20-1.4.1.jar"
+hash-format = "sha1"
+hash = "f84e80c70fc12621b1c1816defef76f5e75d81e5"
+
+[update]
+[update.modrinth]
+mod-id = "BfFhIqA7"
+version = "424RdGXU"

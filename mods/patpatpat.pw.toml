@@ -1,0 +1,13 @@
+name = "PatPatPat"
+filename = "PatPatPat-Fabric-1.20-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BErx9tPq/versions/73oL6Rq7/PatPatPat-Fabric-1.20-1.1.0.jar"
+hash-format = "sha1"
+hash = "725da1895897ad982137e6fed8f7c67df3aff58a"
+
+[update]
+[update.modrinth]
+mod-id = "BErx9tPq"
+version = "73oL6Rq7"

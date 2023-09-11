@@ -1,0 +1,13 @@
+name = "Mindful Darkness"
+filename = "MindfulDarkness-v8.0.2-1.20.1-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pzCY6C3e/versions/OZRIDods/MindfulDarkness-v8.0.2-1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "f9ae54ca38193e65ab035c5e84cab9651e51f739"
+
+[update]
+[update.modrinth]
+mod-id = "pzCY6C3e"
+version = "OZRIDods"

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "inspreanite",
+  "version": "${version}",
+
+  "name": "Inspreanite",
+  "description": "A modpack mod for Inspreanite",
+  "authors": [
+    "HO-Artisan",
+    "Oganesson897"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "GNU AGPL v3",
+  "icon": "assets/inspreanite/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "ho.artisan.inspreanite.Inspreanite"
+    ]
+  },
+  "mixins": [
+    "inspreanite.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.11",
+    "fabric-api": "*",
+    "minecraft": "~1.20.1",
+    "java": ">=17"
+  }
+}

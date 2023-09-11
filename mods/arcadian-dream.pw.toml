@@ -1,0 +1,13 @@
+name = "Arcadian Dream"
+filename = "arcadiandream-1.20.1-0.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Oim7y3T3/versions/DIPnBJWm/arcadiandream-1.20.1-0.0.10.jar"
+hash-format = "sha1"
+hash = "e85e2cf17efb88843718480a8bb29200035e16ca"
+
+[update]
+[update.modrinth]
+mod-id = "Oim7y3T3"
+version = "DIPnBJWm"

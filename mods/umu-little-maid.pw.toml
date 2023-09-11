@@ -1,0 +1,13 @@
+name = "UMU Little Maid"
+filename = "umu_little_maid-3.11a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iEwt8nJR/versions/kWUkLIgQ/umu_little_maid-3.11a.jar"
+hash-format = "sha1"
+hash = "8e4a77a0072913642ebd83be59cd3c7d5beb8cfb"
+
+[update]
+[update.modrinth]
+mod-id = "iEwt8nJR"
+version = "kWUkLIgQ"

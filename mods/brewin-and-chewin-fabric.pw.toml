@@ -1,0 +1,13 @@
+name = "Brewin' And Chewin' [Fabric]"
+filename = "brewinandchewin-fabric-2.3.1+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46358b986fd301eeb588451dddb78f6c08375ce0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4726339
+project-id = 807512

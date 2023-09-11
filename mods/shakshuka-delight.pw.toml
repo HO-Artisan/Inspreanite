@@ -1,0 +1,13 @@
+name = "Shakshuka Delight"
+filename = "shakdel-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kt3KLrwo/versions/rqkoYVzG/shakdel-1.0.0.jar"
+hash-format = "sha1"
+hash = "8b64072d6bb66bbbe4dfb0cfce48872f0267d390"
+
+[update]
+[update.modrinth]
+mod-id = "Kt3KLrwo"
+version = "rqkoYVzG"

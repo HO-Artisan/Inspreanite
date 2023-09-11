@@ -1,0 +1,13 @@
+name = "Rare Ice"
+filename = "rare-ice-0.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uSi0tajU/versions/8UbSLWxB/rare-ice-0.6.0.jar"
+hash-format = "sha1"
+hash = "0d70c96d95ba2effa0b37bddf4ed54397ee5774c"
+
+[update]
+[update.modrinth]
+mod-id = "uSi0tajU"
+version = "8UbSLWxB"

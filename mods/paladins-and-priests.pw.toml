@@ -1,0 +1,13 @@
+name = "Paladins & Priests (RPG Series)"
+filename = "paladins-fabric-0.9.10+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FxXkHaLe/versions/cDkH9PyA/paladins-fabric-0.9.10%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "baffb684c54f1d8b2b66a26f26ee8aa8e2567947"
+
+[update]
+[update.modrinth]
+mod-id = "FxXkHaLe"
+version = "cDkH9PyA"

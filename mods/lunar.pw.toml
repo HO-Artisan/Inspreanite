@@ -1,0 +1,13 @@
+name = "Lunar"
+filename = "Lunar-fabric-1.20.1-0.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PwhlJMsW/versions/ErnLyl7H/Lunar-fabric-1.20.1-0.1.6.jar"
+hash-format = "sha1"
+hash = "bc128c85a5695e0dd5cb64ebd7891c55f58696a6"
+
+[update]
+[update.modrinth]
+mod-id = "PwhlJMsW"
+version = "ErnLyl7H"

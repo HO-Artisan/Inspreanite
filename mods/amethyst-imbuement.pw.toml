@@ -1,0 +1,13 @@
+name = "Amethyst Imbuement"
+filename = "amethyst_imbuement-1.20.1-10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fThucCjR/versions/uhXXUNBv/amethyst_imbuement-1.20.1-10.jar"
+hash-format = "sha1"
+hash = "d1525c956f46b414769905f52dec2b3ca4c9bbbc"
+
+[update]
+[update.modrinth]
+mod-id = "fThucCjR"
+version = "uhXXUNBv"

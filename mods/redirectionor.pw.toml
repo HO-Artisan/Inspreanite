@@ -1,0 +1,13 @@
+name = "Redirectionor [Modern]"
+filename = "redirectionor-1.20.1-4.3.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ffb15cfaf47feaf68569284e169fb7eb18b9854"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4726395
+project-id = 877289

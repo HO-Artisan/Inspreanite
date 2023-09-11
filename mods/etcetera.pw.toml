@@ -1,0 +1,13 @@
+name = "Etcetera"
+filename = "Etcetera-1.20.1-1.1.2-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TaRVOwJr/versions/42Dm5geR/Etcetera-1.20.1-1.1.2-Fabric.jar"
+hash-format = "sha1"
+hash = "2fb96a61ce66ac2cd98f4bbdf325dd5b2b3570be"
+
+[update]
+[update.modrinth]
+mod-id = "TaRVOwJr"
+version = "42Dm5geR"

@@ -1,0 +1,13 @@
+name = "Flame Sweeping"
+filename = "FlameSweeping-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KknnracL/versions/pCTrRsJM/FlameSweeping-1.1.jar"
+hash-format = "sha1"
+hash = "117d69682982bda6a9ddc956056a209057fb1768"
+
+[update]
+[update.modrinth]
+mod-id = "KknnracL"
+version = "pCTrRsJM"

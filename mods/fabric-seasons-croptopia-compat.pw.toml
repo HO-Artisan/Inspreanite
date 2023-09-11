@@ -1,0 +1,13 @@
+name = "Fabric Seasons: Croptopia Compat"
+filename = "fabric-seasons-croptopia-2.2.2-compat-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OsfjeSxl/versions/cPfUbo9H/fabric-seasons-croptopia-2.2.2-compat-1.0.jar"
+hash-format = "sha1"
+hash = "561fa88280b3f6e7d716fd592faa4cdabd93eb93"
+
+[update]
+[update.modrinth]
+mod-id = "OsfjeSxl"
+version = "cPfUbo9H"

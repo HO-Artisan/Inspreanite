@@ -1,0 +1,13 @@
+name = "Spiky Spikes"
+filename = "SpikySpikes-v8.0.1-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DUaLBLVL/versions/tSperk8u/SpikySpikes-v8.0.1-1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "5c07a0a75ec5b274b82db745ff2a4a1d261852da"
+
+[update]
+[update.modrinth]
+mod-id = "DUaLBLVL"
+version = "tSperk8u"

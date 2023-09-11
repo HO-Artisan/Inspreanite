@@ -1,0 +1,13 @@
+name = "SuperFancyClouds: Rearchitected"
+filename = "sfcr-1.7.6-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hoop89kN/versions/KiFYezDU/sfcr-1.7.6-mc1.20.jar"
+hash-format = "sha1"
+hash = "a1fc34cfad163aa5fe334665f0f47e5ac5f340c5"
+
+[update]
+[update.modrinth]
+mod-id = "Hoop89kN"
+version = "KiFYezDU"

@@ -1,0 +1,13 @@
+name = "Cake Delight"
+filename = "CakeDelight-fabric-1.20.1-v3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7bUTRQPV/versions/LEiyV8P8/CakeDelight-fabric-1.20.1-v3.0.1.jar"
+hash-format = "sha1"
+hash = "630e9f2086b7434ed2c10d85f21b941e37166d80"
+
+[update]
+[update.modrinth]
+mod-id = "7bUTRQPV"
+version = "LEiyV8P8"
