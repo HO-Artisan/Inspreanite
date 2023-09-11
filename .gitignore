@@ -8,7 +8,6 @@
 openloader-resources
 
 # gradle
-
 .gradle/
 build/
 out/
