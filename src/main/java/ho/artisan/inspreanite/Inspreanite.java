@@ -1,6 +1,7 @@
 package ho.artisan.inspreanite;
 
 import ho.artisan.inspreanite.common.config.IrnConfig;
+import ho.artisan.inspreanite.common.event.IrnEventHandler;
 import ho.artisan.inspreanite.loader.recipe.IrnRecipeManager;
 import me.shedaniel.autoconfig.AutoConfig;
 import me.shedaniel.autoconfig.serializer.GsonConfigSerializer;
@@ -28,6 +29,7 @@ public class Inspreanite implements ModInitializer {
     public void onInitialize() {
         AutoConfig.register(IrnConfig.class, GsonConfigSerializer::new);
 
+        IrnEventHandler.init();
         IrnRecipeManager.init();
     }
 }

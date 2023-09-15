@@ -1,6 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/jade/hide-blocks.json"
+hash = "6f6658b4a600c154e8bceb74fbfd887c9cb159ae389b1c87d29bd90f21ce5b0a"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "38975f3f3c25a40c905172a9ccde5489946048173d6173967f37aadcf602455a"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "ae7a294cae2818c7eae9a4ceaa3817458570742f6cd3c98eb78d97ff2d209d91"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "528d0b63411f9e44aa577303eb219aa8c140a6a56bb261f7130a3d8c5b2fef64"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "a9f203915b9735b534ec07d913daff73e3e0d823511f6bae43ac13affd20ddc4"
+
+[[files]]
+file = "config/jade/usernamecache.json"
+hash = "d48480fbe1deb7a8605ab7d50901596af3eb32ce0e906e8ba9baeda1c6647638"
+
+[[files]]
+file = "defaultconfigs/ftbchunks/ftbchunks-world.snbt"
+hash = "84ab34658c37354cc7ff7aa084f4468f00ff428beaeabaadc0b8390ae9946813"
+
+[[files]]
+file = "defaultconfigs/ftbessentials-server.snbt"
+hash = "cf9289e29fe139bec6ced2192789a05c417c079d56a131f92f8ad0b603309740"
+
+[[files]]
+file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
+hash = "0355c973c0e88e2ce0f139206e791b528c16e1202f3f9545af281680458912d9"
+
+[[files]]
 file = "mods/-sculk-horn.pw.toml"
 hash = "2230f56d3b83a853742c50cd1ecac13468f9f6965d8ea5f474d6e8413cc047cc"
 metafile = true
