@@ -12,6 +12,13 @@ group = project.maven_group
 
 repositories {
 	maven {
+		name "Curse Maven"
+		url "https://cursemaven.com"
+		content {
+			includeGroup "curse.maven"
+		}
+	}
+	maven {
 		name 'Modrinth Maven'
 		url 'https://api.modrinth.com/maven'
 		content {
@@ -48,6 +55,10 @@ dependencies {
 	}
 	modApi "dev.architectury:architectury-fabric:9.1.12"
 
+	modImplementation "curse.maven:ftb-quests-fabric-438496:${project.ftb_quests_version}"
+	modImplementation "curse.maven:ftb-library-fabric-438495:${project.ftb_library_version}"
+	modImplementation "curse.maven:ftb-teams-fabric-438497:${project.ftb_teams_version}"
+
 	modCompileOnly "me.shedaniel:RoughlyEnoughItems-default-plugin-fabric:${project.rei_version}"
 	modCompileOnly "me.shedaniel:RoughlyEnoughItems-api-fabric:${project.rei_version}"
 	modRuntimeOnly "me.shedaniel:RoughlyEnoughItems-fabric:${project.rei_version}"
@@ -61,25 +72,11 @@ processResources {
 	}
 }
 
-tasks.withType(JavaCompile).configureEach {
-	// Minecraft 1.18 (1.18-pre2) upwards uses Java 17.
-	it.options.release = 17
-}
 
 java {
-	// Loom will automatically attach sourcesJar to a RemapSourcesJar task and to the "build" task
-	// if it is present.
-	// If you remove this line, sources will not be generated.
 	withSourcesJar()
 }
 
-jar {
-	from("LICENSE") {
-		rename { "${it}_${project.archivesBaseName}"}
-	}
-}
-
-// configure the maven publication
 publishing {
 	publications {
 		mavenJava(MavenPublication) {

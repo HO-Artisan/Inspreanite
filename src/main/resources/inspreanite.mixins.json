@@ -6,7 +6,17 @@
   "mixins": [
   ],
   "client": [
-    "client.MixinMinecraftClient"
+    "client.MixinMinecraftClient",
+    "client.ftbquests.BaseScreenAnimator",
+    "client.ftbquests.ChapterButtonAnimator",
+    "client.ftbquests.ChapterPanelAnimator",
+    "client.ftbquests.ClientQuestFileAnimator",
+    "client.ftbquests.ContextMenuAnimator",
+    "client.ftbquests.ModpackButtonAnimator",
+    "client.ftbquests.QuestObjectAnimator",
+    "client.ftbquests.QuestPanelAnimator",
+    "client.ftbquests.QuestScreenAnimator",
+    "client.ftbquests.ViewQuestPanelAnimator"
   ],
   "injectors": {
     "defaultRequire": 1
