@@ -34,7 +34,7 @@ public enum IrnModDeps {
             "ftb-chunks-fabric/download/4727984/file",
             false, false),
 
-    FTB_ESSENTIALS("ftbessential", Text.translatable("mod.ftbessential.name"),
+    FTB_ESSENTIALS("ftbessentials", Text.translatable("mod.ftbessentials.name"),
             "ftb-essentials-forge/download/4596991/file",
             false, false),
 
