@@ -16,16 +16,10 @@
   </details>
 </blockquote>
 
-<div align="center">
-  <br>
-  </br>
-  <img src="/assets/banner.png?raw=true" width = 575 alt="Inspreanite" />
-  <br>
-  </br>
-</div>
-
 <h1 align="center">
-  Inspreanite
+  <br />
+  <img src="/assets/banner.png?raw=true" width="650" alt="Inspreanite" />
+  <br />
 </h1>
 
 ### 协议

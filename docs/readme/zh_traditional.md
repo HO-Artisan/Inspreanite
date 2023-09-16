@@ -16,11 +16,11 @@
   </details>
 </blockquote>
 
-<div align="center">
+<h1 align="center">
   <br />
-  <img src="/assets/banner.png?raw=true" width = 575 alt="Inspreanite" />
+  <img src="/assets/banner.png?raw=true" width="650" alt="Inspreanite" />
   <br />
-</div>
+</h1>
 
 <h1 align="center">
   Inspreanite
